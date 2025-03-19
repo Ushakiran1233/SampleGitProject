@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tierproduct _tables", "Tierproduct _tables\Tierproduct _tables.csproj", "{B3CD9D29-D874-4ECA-B452-D213B79BCD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{C3D27050-98AB-4730-9B87-4A0568B8AC04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{38065235-A85E-49AE-A707-158FC3200444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3CD9D29-D874-4ECA-B452-D213B79BCD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CD9D29-D874-4ECA-B452-D213B79BCD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CD9D29-D874-4ECA-B452-D213B79BCD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CD9D29-D874-4ECA-B452-D213B79BCD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D27050-98AB-4730-9B87-4A0568B8AC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D27050-98AB-4730-9B87-4A0568B8AC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D27050-98AB-4730-9B87-4A0568B8AC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D27050-98AB-4730-9B87-4A0568B8AC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38065235-A85E-49AE-A707-158FC3200444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38065235-A85E-49AE-A707-158FC3200444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38065235-A85E-49AE-A707-158FC3200444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38065235-A85E-49AE-A707-158FC3200444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CB12B2-5A2C-436E-B2A4-F8D7741C0E07}
+	EndGlobalSection
+EndGlobal
